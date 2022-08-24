@@ -30,7 +30,7 @@
 
   .MousePositionIndicator {
     position: absolute;
-    color: white;
+    color: '#63666A';
     font-size: 12px;
     background-color: $darkThemeThirdColor;
     opacity: 0.6;
@@ -49,8 +49,8 @@
     transform: translate(-50%, -50%);
     border-radius: 50%;
     pointer-events: none;
-    border: 2px solid white;
-    background-color: white;
+    border: 2px solid black;
+    background-color: '#63666A';
     z-index: 100000;
 
     > img {
